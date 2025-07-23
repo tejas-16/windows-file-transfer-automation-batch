@@ -39,6 +39,8 @@ To solve this, I developed a *Windows Batch Script* (patch_delivery.bat) that au
    - Securely copies the files using scp
    - Places the delivery directly into the RDP target folder on deplu1vw
 
+Note:- I have placed the pscp.exe file in the same folder to securely copy the files between a server to the RDP (windows server).
+
 No need to manually log into servers, use WinSCP, or perform any copy-paste steps.
 
 ---
