@@ -2,6 +2,8 @@
 
 # Citrix Application Deployment Preparation Automation (Windows Batch Script)
 
+#This was my organization automation
+
 I'm excited to share a real-world automation I implemented to streamline the *Citrix application deployment preparation process*. This Windows batch script drastically reduces manual effort and improves accuracy during deployments, replacing a tedious, error-prone routine with a fast and reliable automated solution.
 
 ---
